@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Dataset Files
+Books.csv
+Ratings.csv
+Users.csv
+
+# Generated Files
+artifacts/
